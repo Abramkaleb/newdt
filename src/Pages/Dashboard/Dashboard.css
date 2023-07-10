@@ -1,0 +1,61 @@
+
+.page{
+    /* height: 6000px;  */
+     overflow: auto;
+    margin-inline: auto;
+    
+
+   
+}
+
+
+.yanmar{
+    position: absolute;
+    top: 50px;
+    margin-left: 240px;
+}
+
+
+.gauge1{
+    
+    left: 550px;
+    top: 50px;
+    display: flex;
+    position: absolute;
+   
+}
+
+.gauge2{
+    display: flex;
+    position: absolute;
+    left: 500px;
+    top: 290px;
+    gap: 20px;
+    
+}
+
+.buttons{
+    position: absolute;
+    top: 400px;
+    left: 40px;
+ 
+}
+
+.chartjs{
+    position: absolute;
+    display: flex;
+    top: 600px;
+    left: 140px;
+    gap: 90px;
+
+}
+
+.chartjs2{
+    position: absolute;
+    display: flex;
+    top: 900px;
+    left: 50px;
+    gap: 90px;
+
+}
+
